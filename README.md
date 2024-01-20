@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 💻 Tech Stack
-JavaScript TypeScript HTML5 CSS3 React Vue.js Next JS NuxtJS SASS Less MUI Styled Components Vuetify Threejs Jira Notion Trello Postman Babel
+
 
 🌐 Socials:
-Instagram LinkedIn TikTok Twitter
+	![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
