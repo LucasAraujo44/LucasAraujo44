@@ -45,6 +45,8 @@ I'm Lucas Araújo, a passionate developer with experience in various technologie
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.lucasaraujoo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-lucas-araujo)
+[![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1aQF0V1wCkUSPSiKAu72PYsfJUeGibnrn/view?usp=drive_link)
+
 
 
 Feel free to reach out if you want to collaborate on a project or just chat about technology!
